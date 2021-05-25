@@ -1,0 +1,1 @@
+This is a Android mobile application developed using java language also one of our Undergraduate project done by four members. This more likely a social media application that already available. Using this app, the users could be able to chat, post and share with the appproved friends list of them.
